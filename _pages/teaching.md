@@ -1,12 +1,51 @@
 ---
 layout: page
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description:
 nav: true
 nav_order: 5
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-Organize your courses by years, topics, or universities, however you like!
+
+### Current Graduate Students
+    
+[Tatum Rask](https://sites.google.com/view/tatumrask) - MS in 2022 and PhD expected in 2025
+    
+Jacob Cleveland - MS expected in 2024
+
+### Past Graduate Students
+
+[Alex McClearly](https://www.alexmccleary.org/) - PhD in 2021
+
+Dustin Sauriol - MS in 2018
+
+### Past Undergraduate Students
+
+Garrett Figueroa - BS 2021
+
+Amethyst Price - BS 2019
+
+### Courses Taught at CSU
+
+| Year    |  Semester | Course    |   Credit Hours | Enrollment | Total  | 
+| ------- | ----------|-----------|----------------|------------|--------|
+| 2023    | Fall | DSCI369 - Linear Algebra for Data Science | 4 | 120 | 480
+| 2023  | Fall | M570 - Topology I | 3 | 12 | 36
+| 2022 | Spring | M571 Topology II | 3 | 15  | 45
+| 2021 | Fall | M570 Topology I | 3 |  10 | 30 
+| 2021 | Fall | M235 Intro to Math Reasoning | 2 | 36 | 72 
+| 2021 | Spring | M261 Calc for Physical Scientists III | 4 | 28 | 112 
+| 2021	| Spring | M567 Intro to Abstract Algebra II | 3 | 6 | 18 
+| 2020 | Fall | M566 Intro to Abstract Algebra I | 3 | 11 | 33 
+| 2019	 | Fall | M261 Calc for Physical Scientists III | 4 | 90 | 360 
+| 2019	 | Fall | M261 Calc for Physical Scientists III | 4 | 92 | 368 
+| 2019	 | Spring | M567 Intro to Abstract Algebra II | 3 | 8 | 24 
+| 2018 | Fall | M466 Abstract Algebra I | 3 | 17 | 51 
+| 2018 | Fall | M566 Intro to Abstract Algebra I | 3 | 15 | 45 
+| 2018 | Spring | M235 Intro to Math Reasoning | 2 | 30 | 60 
+| 2017 | Fall | M419 Intro to Complex Variables	 | 3	| 23	| 69 
+| 2017	 | Spring | M567 Intro to Abstract Algebra II | 3 | 11 | 33 
+| 2016	 | Fall | M566 Intro to Abstract Algebra I	| 3	| 9	| 27
+| Totals | | | 53 | 533 | 1863

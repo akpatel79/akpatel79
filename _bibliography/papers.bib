@@ -3,6 +3,234 @@
 
 @string{aps = {American Physical Society,}}
 
+@article{edit-distance,
+	Abstract = {We build a functorial pipeline for persistent homology. The input to this pipeline is a filtered simplicial complex indexed by any finite metric lattice, and the output is a persistence diagram defined as the M{\"o}bius inversion of its birth-death function. We adapt the Reeb graph edit distance to each of our categories and prove that both functors in our pipeline are 1-Lipschitz, making our pipeline stable. Our constructions generalize the classical persistence diagram, and in this setting, the bottleneck distance is strongly equivalent to the edit distance.},
+	Author = {McCleary, Alexander and Patel, Amit},
+	html = {https://doi.org/10.1137/20M1373700},
+	Journal = {SIAM Journal on Applied Algebra and Geometry},
+	Number = {2},
+	Pages = {134-155},
+	Title = {Edit Distance and Persistence Diagrams over Lattices},
+	Volume = {6},
+	Year = {2022},
+	bibtex_show = {true},
+  abbr = {SIAGA}
+}
+
+@inproceedings{Reeb_spaces,
+  author = {Edelsbrunner, Herbert and Harer, John and Patel, Amit K.},
+  title = {Reeb Spaces of Piecewise Linear Mappings},
+  year = {2008},
+  isbn = {9781605580715},
+  publisher = {Association for Computing Machinery},
+  address = {New York, NY, USA},
+  html = {https://doi.org/10.1145/1377676.1377720},
+  abstract = {Generalizing the concept of a Reeb graph, the Reeb space of a multivariate continuous mapping identifies points of the domain that belong to a common component of the preimage of a point in the range. We study the local and global structure of this space for generic, piecewise linear mappings on a combinatorial manifold.},
+  booktitle = {Proceedings of the Twenty-Fourth Annual Symposium on Computational Geometry},
+  pages = {242–250},
+  numpages = {9},
+  keywords = {combinatorial manifolds, cone neighborhoods, reeb spaces, smooth and pl topology, stratifications, algorithms, triangulations},
+  location = {College Park, MD, USA},
+  series = {SCG '08},
+  bibtex_show = {true},
+  abbr = {SoCG}
+}
+
+@inproceedings{robustness_level_sets,
+	Abstract = {We define the robustness of a level set homology class of a function {\$}f: {\{}{\backslash}mathbb X{\}} {\backslash}to {\{}{\backslash}mathbb R{\}}{\$}as the magnitude of a perturbation necessary to kill the class. Casting this notion into a group theoretic framework, we compute the robustness for each class, using a connection to extended persistent homology. The special case {\$}{\{}{\backslash}mathbb X{\}} = {\{}{\backslash}mathbb R{\}}^3{\$}has ramifications in medical imaging and scientific visualization.},
+	Address = {Berlin, Heidelberg},
+	Author = {Bendich, Paul and Edelsbrunner, Herbert and Morozov, Dmitriy and Patel, Amit},
+	Booktitle = {Algorithms -- ESA 2010},
+	Editor = {de Berg, Mark and Meyer, Ulrich},
+	Isbn = {978-3-642-15775-2},
+	Pages = {1--10},
+	Publisher = {Springer Berlin Heidelberg},
+	Title = {The Robustness of Level Sets},
+	Year = {2010},
+  bibtex_show = {true},
+  html = {https://link.springer.com/chapter/10.1007/978-3-642-15775-2_1},
+  abbr = {ESA}
+  }
+
+
+@inproceedings{Non-uniform,
+	Abstract = {Using ideas from persistent homology, the robustness of a level set of a real-valued function is defined in terms of the magnitude of the perturbation necessary to kill the classes. Prior work has shown that the homology and robustness information can be read off the extended persistence diagram of the function. This paper extends these results to a non-uniform error model in which perturbations vary in their magnitude across the domain.},
+	Address = {Berlin, Heidelberg},
+	Author = {Bendich, Paul and Edelsbrunner, Herbert and Kerber, Michael and Patel, Amit},
+	Booktitle = {Mathematical Foundations of Computer Science 2010},
+	Editor = {Hlin{\v{e}}n{\'y}, Petr and Ku{\v{c}}era, Anton{\'\i}n},
+	Isbn = {978-3-642-15155-2},
+	Pages = {12--23},
+	Publisher = {Springer Berlin Heidelberg},
+	Title = {Persistent Homology under Non-uniform Error},
+	Year = {2010},
+  html = {https://link.springer.com/chapter/10.1007/978-3-642-15155-2_2},
+  bibtex_show = {true},
+  abbr = {MFCS}
+  }
+
+@inbook{Edelsbrunner2011,
+	Abstract = {The (apparent) contour of a smooth mapping from a 2-manifold to the plane, $f :M \to \mathcal{R}^2$, is the set of critical values, that is, the image of the points at which the gradients of the two component functions are linearly dependent. Assuming $M$ is compact and orientable and measuring difference with the erosion distance, we prove that the contour is stable.},
+	Address = {Berlin, Heidelberg},
+	Author = {Edelsbrunner, Herbert and Morozov, Dmitriy and Patel, Amit},
+	Booktitle = {Topological Methods in Data Analysis and Visualization: Theory, Algorithms, and Applications},
+	Editor = {Pascucci, Valerio and Tricoche, Xavier and Hagen, Hans and Tierny, Julien},
+	Pages = {27--41},
+	Publisher = {Springer Berlin Heidelberg},
+	Title = {The Stability of the Apparent Contour of an Orientable 2-Manifold},
+	html = {https://doi.org/10.1007/978-3-642-15014-2_3},
+	Year = {2011},
+  bibtex_show = {true},
+  abbr = {Top Viz}
+}
+
+
+@article{CHAZAL20121725,
+	Abstract = {Using topological degree theory, we present a fast algorithm for computing the well diagram, a quantitative property, of a vector field on Euclidean space.},
+	Author = {Fr{\'e}d{\'e}ric Chazal and Primoz Skraba and Amit Patel},
+	Issn = {0893-9659},
+	Journal = {Applied Mathematics Letters},
+	Keywords = {Well groups, Persistence, Fixed points, Stability, Algorithms},
+	Number = {11},
+	Pages = {1725-1728},
+	Title = {Computing well diagrams for vector fields on $R^n$},
+	html = {https://www.sciencedirect.com/science/article/pii/S0893965912000717},
+	Volume = {25},
+	Year = {2012},
+  bibtex_show = {true},
+  abbr = {APL}
+}
+
+@article{CategReebGraph,
+	Abstract = {The Reeb graph is a construction which originated in Morse theory to study a real-valued function defined on a topological space. More recently, it has been used in various applications to study noisy data which creates a desire to define a measure of similarity between these structures. Here, we exploit the fact that the category of Reeb graphs is equivalent to the category of a particular class of cosheaf. Using this equivalency, we can define an `interleaving'distance between Reeb graphs which is stable under the perturbation of a function. Along the way, we obtain a natural construction for smoothing a Reeb graph to reduce its topological complexity. The smoothed Reeb graph can be constructed in polynomial time.},
+	Author = {de Silva, Vin and Munch, Elizabeth and Patel, Amit},
+	Da = {2016/06/01},
+	Journal = {Discrete \& Computational Geometry},
+	Number = {4},
+	Pages = {854--906},
+	Title = {Categorified Reeb Graphs},
+	html = {https://doi.org/10.1007/s00454-016-9763-9},
+	Volume = {55},
+	Year = {2016},
+	bibtex_show = {true},
+  abbr = {DCG},
+  abstract = {The Reeb graph is a construction which originated in Morse theory to study a real-valued function defined on a topological space. More recently, it has been used in various applications to study noisy data which creates a desire to define a measure of similarity between these structures. Here, we exploit the fact that the category of Reeb graphs is equivalent to the category of a particular class of cosheaf. Using this equivalency, we can define an ‘interleaving’ distance between Reeb graphs which is stable under the perturbation of a function. Along the way, we obtain a natural construction for smoothing a Reeb graph to reduce its topological complexity. The smoothed Reeb graph can be constructed in polynomial time.}
+}
+
+@article{curry_patel,
+  title={Classification of Constructible Cosheaves},
+  author={Justin Curry and Amit Patel},
+  year={2020},
+  journal={Theory and Applications of Categories},
+  number = {27},
+  volume = {35},
+  pages = {1012--1047},
+  html = {http://www.tac.mta.ca/tac/volumes/35/27/35-27abs.html},
+  url = {http://www.tac.mta.ca/tac/volumes/35/27/35-27.pdf},
+  bibtex_show={true},
+  abbr    = {TAC},
+  abstract = {In this paper we prove an equivalence theorem originally observed by Robert MacPherson. On one side of the equivalence is the category of cosheaves that are constructible with respect to a locally cone-like stratification. Our constructibility condition is new and only requires that certain inclusions of open sets are sent to isomorphisms. On the other side of the equivalence is the category of functors from the entrance path category, which has points for objects and certain homotopy classes of paths for morphisms. When our constructible cosheaves are valued in Set we prove an additional equivalence with the category of stratified coverings.}
+}
+
+@incollection{Nanda_Patel,
+  title = {Canonical Stratifications Along Bisheaves},
+  author = {Amit Patel and Vidit Nanda},
+  booktitle = {Proceedings of the Abel Symposium 2018: Topological Data Analysis},
+  series = {Abel Symposium},
+  volume = {15},
+  publisher = {Springer},
+  year = {2020},
+  html = {https://link.springer.com/chapter/10.1007/978-3-030-43408-3_15},
+  bibtex_show={true},
+  abbr    = {Abel},
+  abstract = {A theory of bisheaves has been recently introduced to measure the homological stability of fibers of maps to manifolds. A bisheaf over a topological space is a triple consisting of a sheaf, a cosheaf, and compatible maps from the stalks of the sheaf to the stalks of the cosheaf. In this note we describe how, given a bisheaf constructible (i.e., locally constant) with respect to a triangulation of its underlying space, one can explicitly determine the coarsest stratification of that space for which the bisheaf remains constructible.}
+}
+
+
+@article{MACPHERSON2021107795,
+	Abstract = {In this paper, we give lower bounds for the homology of the fibers of a map to a manifold. Using new sheaf theoretic methods, we show that these lower bounds persist over whole open sets of the manifold and that they are stable under perturbations of the map. This generalizes certain ideas of persistent homology to higher dimensions.},
+	Author = {Robert MacPherson and Amit Patel},
+	Journal = {Advances in Mathematics},
+	Keywords = {Persistent homology, Stability, Stratified spaces, Sheaves, Cosheaves},
+	Pages = {107795},
+	Title = {Persistent local systems},
+	html = {https://www.sciencedirect.com/science/article/pii/S0001870821002346},
+	Volume = {386},
+	Year = {2021},
+  bibtex_show={true},
+  abbr    = {Advances},
+  selected={true}
+}
+
+
+@ARTICLE{well-groups-1d,
+  title     = "Homology and robustness of level and interlevel sets",
+  author    = "Bendich, Paul and Edelsbrunner, Herbert and Morozov, Dmitriy and Patel, Amit",
+  journal   = "Homology, Homotopy and Applications",
+  publisher = "International Press of Boston",
+  volume    =  15,
+  number    =  1,
+  pages     = "51--72",
+  year      =  2013,
+  html       = "https://projecteuclid.org/euclid.hha/1383943667",
+  language  = "en",
+  issn      = "1532-0073, 1532-0081",
+  bibtex_show={true},
+  abbr    = {HHA},
+  abstract = {Given a continuous function $f : X \to \mathcal{R}$ on a topological space, we consider the preimages of intervals and their homology groups and show how to read the ranks of these groups from the extended persistence diagram of $f$. In addition, we quantify the robustness of the homology classes under perturbations of $f$ using well groups, and we show how to read the ranks of these groups from the same extended persistence diagram. The special case $X = \mathcal{R}^3$ has ramifications in the fields of medical imaging and scientific visualization.}
+}
+
+@ARTICLE{well-groups,
+  title   = "Quantifying Transversality by Measuring the Robustness of Intersections",
+  author  = "Edelsbrunner, Herbert and Morozov, Dmitriy and Patel, Amit",
+  journal = "Foundations of Computational Mathematics",
+  volume  =  11,
+  number  =  3,
+  pages   = "345--361",
+  month   =  jun,
+  year    =  2011,
+  html     = "https://doi.org/10.1007/s10208-011-9090-8",
+  issn    = "1615-3375, 1615-3383",
+  bibtex_show={true},
+  abbr    = {FoCM},
+  abstract = {By definition, transverse intersections are stable under infinitesimal perturbations. Using persistent homology, we extend this notion to a measure. Given a space of perturbations, we assign to each homology class of the intersection its robustness, the magnitude of a perturbation in this space necessary to kill it, and then we prove that the robustness is stable. Among the applications of this result is a stable notion of robustness for fixed points of continuous mappings and a statement of stability for contours of smooth mappings.}
+}
+
+@ARTICLE{McCPa20,
+  title   = "Bottleneck stability for generalized persistence diagrams",
+  author  = "McCleary, Alex and Patel, Amit",
+  journal = "Proceedings of the American Mathematical Society. American Mathematical Society",
+  volume  =  148,
+  number  =  7,
+  pages   = "3149--3161",
+  month   =  mar,
+  year    =  2020,
+  html     = "http://www.ams.org/proc/2020-148-07/S0002-9939-2020-14929-5/",
+  issn    = "0002-9939, 1088-6826",
+  bibtex_show={true},
+  abbr    = {AMS},
+  abstract = {In this paper, we extend bottleneck stability to the setting of one dimensional constructible persistence modules valued in any skeletally small abelian category.}
+}
+
+@ARTICLE{Patel2018,
+  title     = "Generalized persistence diagrams",
+  author    = "Patel, Amit",
+  journal   = "Journal of Applied and Computational Topology",
+  publisher = "Springer International Publishing",
+  volume    =  1,
+  number    =  3,
+  pages     = "397--419",
+  month     =  jun,
+  year      =  2018,
+  html       = "https://doi.org/10.1007/s41468-018-0012-6",
+  language  = "en",
+  bibtex_show={true},
+  dimensions={false},
+  selected={true},
+  abbr={JACT},
+  abstract = {We generalize the persistence diagram of Cohen-Steiner, Edelsbrunner, and Harer to the setting of constructible persistence modules valued in a symmetric monoidal category. We call this the \emph{type $\mathcal{A}$} persistence diagram of a persistence module. If the category is also abelian, then we define a second \emph{type $\mathcal{B}$} persistence diagram. In addition, we show that both diagrams are stable to all sufficiently small perturbations of the module. The type $\mathcal{B}$ persistence diagram carries less information than the type $\mathcal{A}$ persistence diagram, but it enjoys a stronger stability theorem.}
+}
+
 @misc{morozov2023outputsensitive,
   title={Output-sensitive Computation of Generalized Persistence Diagrams for 2-filtrations}, 
   author={Dmitriy Morozov and Amit Patel},
@@ -12,7 +240,7 @@
   primaryClass={cs.CG},
   html={https://arxiv.org/abs/2112.03980},
   preview={arxiv-logo.jpeg},
-  bibtex_show={false},
+  bibtex_show={true},
   abstract={When persistence diagrams are formalized as the M\"obius inversion of the birth--death function, they naturally generalize to the multi-parameter setting and enjoy many of the key properties, such as stability, that we expect in applications.  The direct definition in the 2-parameter setting, and the corresponding brute-force algorithm to compute them, require$\Omega(n^4)$ operations, where $n$ is the complexity of the input. But the size of the generalized persistence diagram, $C$, can be as low as linear (and as high as cubic).  We elucidate a connection between the 2-parameter and the ordinary 1-parameter settings, which allows us to design an output-sensitive algorithm, whose running time is in $O(n^2 m + Cm)$, where $m$ is the number of simplices in the input.}
 }
 
@@ -25,7 +253,7 @@
   primaryClass={math.AT},
   html={https://arxiv.org/abs/2212.14610},
   preview={arxiv-logo.jpeg},
-  bibtex_show={false},
+  bibtex_show={true},
   abstract={We dualize previous work on generalized persistence diagrams for filtrations to cofiltrations. When the underlying space is a manifold, we express this duality as a Poincaré duality between their generalized persistence diagrams. A heavy emphasis is placed on the recent discovery of functoriality of the generalized persistence diagram and its connection to Rota's Galois Connection Theorem.}
 }
 
@@ -38,7 +266,7 @@
   primaryClass={math.AT},
   html={https://arxiv.org/abs/2208.05243},
   preview={arxiv-logo.jpeg},
-  bibtex_show={false},
+  bibtex_show={true},
   abstract={We employ the recent discovery of functoriality for persistent homology to recast the Persistent Homology Transform of a geometric complex as a cosheaf of combinatorial persistence diagrams. Detailed examples are provided. We hope the recasting of the PH transform as a cellular cosheaf will allow for the adoption of existing methods from category theory and (co)sheaf theory to the study of shapes.}
 }
 
@@ -51,86 +279,19 @@
   primaryClass={math.AT}, 
   html={https://arxiv.org/abs/2307.01040},
   preview={arxiv-logo.jpeg},
-  bibtex_show={false},
+  bibtex_show={true},
+  selected={true},
   abstract={This paper introduces M\"obius homology, a homology theory for representations of finite posets into abelian categories. While the connection between poset topology and M\"obius functions is classical, we establish a direct connection between poset topology and M\"obius inversions. More precisely, the M\"obius homology categorifies the M\"obius inversion because its Euler characteristic is equal to the M\"obius inversion of the dimension function of the representation. We also introduce a homological version of Rota's Galois Connection Theorem which relates the M\"obius homology over two posets connected by a Galois connection. Our main application is to persistent homology over general posets. We show that under one definition,  the persistence diagram is an Euler characteristic over a poset of intervals and hence M\"obius homology is a categorification of the persistence diagram. This provides a new invariant for persistent homology over general posets. Finally, we  use our homological Rota's Galois Connection Theorem to prove several results about the persistence diagram.}
 }
 
-@book{einstein1956investigations,
+@phdthesis{citekey,
+  author  = "Amit K. Patel",
+  title   = "Reeb Spaces and the Robustness of Preimages",
+  school  = "Duke University",
+  year    = "2010",
   bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
+  abbr = {Duke}
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
-}
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein, A. and Podolsky, B. and Rosen, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  selected={true}
-}
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
-}
-
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
-}
-
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
-}
-
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif}
-}
