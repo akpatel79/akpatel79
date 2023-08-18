@@ -25,3 +25,5 @@ I was born in Chicago and spent most of my childhood in the city and then in Nil
 
 My research sits at the intersection of pure and applied topology, algebraic combinatorics (Rota's way), and category theory. I like to use category theory to organize my thoughts and 
 ask precise questions.
+
+I help run the [CSU Topology Seminar](https://sites.google.com/view/csu-applied-topology/home).
