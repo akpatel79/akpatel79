@@ -15,17 +15,20 @@ nav_order: 5
     
 Jacob Cleveland - MS expected in 2024
 
+
 ### Past Graduate Students
 
 [Alex McClearly](https://www.alexmccleary.org/) - PhD in 2021
 
 Dustin Sauriol - MS in 2018
 
+
 ### Past Undergraduate Students
 
 Garrett Figueroa - BS 2021
 
 Amethyst Price - BS 2019
+
 
 ### Courses Taught at CSU
 
