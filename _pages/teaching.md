@@ -18,7 +18,7 @@ Jacob Cleveland - MS expected in 2024
 
 ### Past Graduate Students
 
-[Alex McClearly](https://www.alexmccleary.org/) - PhD in 2021
+[Alex McCleary](https://www.alexmccleary.org/) - PhD in 2021
 
 Dustin Sauriol - MS in 2018
 
