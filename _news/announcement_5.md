@@ -2,7 +2,7 @@
 layout: post
 date: 2024-5-15
 inline: false
-title: LTCC Intensive Course
+title: Invited Talk in Summer 2025
 related_posts: false
 ---
 
