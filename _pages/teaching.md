@@ -34,6 +34,7 @@ Amethyst Price - BS 2019
 
 | Year    |  Semester | Course    |   Credit Hours | Enrollment | Total  | 
 | ------- | ----------|-----------|----------------|------------|--------|
+| 2024    | Spring | M571 - Topology II | 3 | 12 | 36
 | 2023    | Fall | DSCI369 - Linear Algebra for Data Science | 4 | 120 | 480
 | 2023  | Fall | M570 - Topology I | 3 | 12 | 36
 | 2022 | Spring | M571 Topology II | 3 | 15  | 45
@@ -51,4 +52,4 @@ Amethyst Price - BS 2019
 | 2017 | Fall | M419 Intro to Complex Variables	 | 3	| 23	| 69 
 | 2017	 | Spring | M567 Intro to Abstract Algebra II | 3 | 11 | 33 
 | 2016	 | Fall | M566 Intro to Abstract Algebra I	| 3	| 9	| 27
-| Totals | | | 53 | 533 | 1863
+| Totals | | | 56 | 545 | 1899

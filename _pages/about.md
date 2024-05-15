@@ -21,9 +21,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I was born in Chicago and spent most of my childhood in the city and then in Niles, a nearby suburb. I did my BS and MS at the University of Illinois at Urbana-Champaign. After some industry experience, I decided I was more interested in theory and philosophy than engineering (I reserve the right to change my mind). I went back to school earning my PhD at Duke University. All three degrees are in computer science, but I am a mathematician.
+I was born in Chicago and spent most of my childhood in the city and then in Niles, a nearby suburb. I did my BS and MS at the University of Illinois at Urbana-Champaign. I did my PhD at Duke University. All three degrees are in computer science, but I am a mathematician!
 
-My research sits at the intersection of pure and applied topology, algebraic combinatorics (Rota's way), and category theory. I like to use category theory to organize my thoughts and 
-ask precise questions.
+My research sits at the intersection of pure and applied algebraic topology, algebraic combinatorics (Rota's way), and category theory. I like to use category theory to organize my thoughts and ask precise questions.
 
 I help run [CSU Topology Seminar](https://sites.google.com/view/csu-applied-topology/home).
