@@ -13,7 +13,7 @@ nav_order: 5
     
 [Tatum Rask](https://sites.google.com/view/tatumrask) - MS in 2022 and PhD expected in 2025
     
-Jacob Cleveland - MS expected in 2024
+Jacob Cleveland - MS defended Fall 2024
 
 
 ### Past Graduate Students
@@ -34,6 +34,7 @@ Amethyst Price - BS 2019
 
 | Year    |  Semester | Course    |   Credit Hours | Enrollment | Total  | 
 | ------- | ----------|-----------|----------------|------------|--------|
+| 2024    | Fall | M472 - Introduction to Topology | 3 | 10 | 30
 | 2024    | Spring | M571 - Topology II | 3 | 12 | 36
 | 2023    | Fall | DSCI369 - Linear Algebra for Data Science | 4 | 120 | 480
 | 2023  | Fall | M570 - Topology I | 3 | 12 | 36
@@ -52,4 +53,4 @@ Amethyst Price - BS 2019
 | 2017 | Fall | M419 Intro to Complex Variables	 | 3	| 23	| 69 
 | 2017	 | Spring | M567 Intro to Abstract Algebra II | 3 | 11 | 33 
 | 2016	 | Fall | M566 Intro to Abstract Algebra I	| 3	| 9	| 27
-| Totals | | | 56 | 545 | 1899
+| Totals | | | 59 | 555 | 1929
